@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789377762843",
+    "project_id": "freefile-6cf4d",
+    "storage_bucket": "freefile-6cf4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789377762843:android:92599240e4bafd4cc3dabe",
+        "android_client_info": {
+          "package_name": "com.example.free_files"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARIqX6uRw8xeROlvBXXTqd0BEKTishLjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

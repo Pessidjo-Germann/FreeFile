@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972653730756",
+    "project_id": "freefiles-4ee33",
+    "storage_bucket": "freefiles-4ee33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972653730756:android:59a2c7fa88e825460d2291",
+        "android_client_info": {
+          "package_name": "com.stones.free_files"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [  
+        {
+          "current_key": "AIzaSyBuot479jCCfHlN0aVmQSeDnYqrl2KtWj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
