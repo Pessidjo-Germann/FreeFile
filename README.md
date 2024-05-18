@@ -1,16 +1,23 @@
 # free_files
 
-A new Flutter project.
+Un nouveau project Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ce projet est une application permettante au utilisateur d'obtenir des fichiers pour leurs applications VPN en regardant des publicites.
 
-A few resources to get you started if this is your first Flutter project:
+Ainsi cette application utilise
+- FIREBASE 
+- ADMOB 
+- FLUTTER
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Étapes Installations
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clonez le dépôt : `git clone [https://github.com/Pessidjo-Germann/FreeFile](https://github.com/Pessidjo-Germann/FreeFile)`
+2. Naviguez dans le répertoire du projet : `cd Freefile`
+3. Installez les dépendances : `flutter pub upgrade`
+
+### Auteur
+
+- **PESSIDJO GERMANN** - ** - [PROFIL](https://github.com/Pessidjo-Germann/))
+
